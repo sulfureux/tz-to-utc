@@ -1,0 +1,24 @@
+{
+  "name": "tz-to-utc",
+  "description": "Convert TZ to UTC number",
+  "version": "0.0.2",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Pierre Neter <pierreneter@gmail.com>",
+  "keywords": [
+    "timezones",
+    "tz",
+    "utc"
+  ],
+  "dependencies": {
+    "luxon": "^0.2.5"
+  },
+  "bugs": {
+    "url": "https://github.com/pierreneter/tz-to-utc/issues",
+    "email": "pierreneter@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pierreneter/tz-to-utc.git"
+  }
+}
